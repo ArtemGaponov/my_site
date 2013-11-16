@@ -10,8 +10,6 @@ while ($res = mysql_fetch_assoc($q)) {
 }
 
 
-echo 'Привет';
-
 
 
 
